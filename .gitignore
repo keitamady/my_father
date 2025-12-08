@@ -1,0 +1,6 @@
+*.fit
+*.log
+!*moussa.log
+*.net
+*.com
+*.file
