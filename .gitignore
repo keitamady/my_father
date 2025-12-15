@@ -1,6 +1,6 @@
-*.fit
+*.foc
+!moussa.foc
 *.log
-!*moussa.log
-*.net
-*.com
-*.file
+!laye.log
+*.[fit log net]
+
